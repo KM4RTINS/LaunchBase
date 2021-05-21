@@ -1,10 +1,8 @@
 <h1 align="center">
-  <img alt="LaunchBase" src="./.github/logo.png" width=200px">
+  <img alt="LaunchBase" src="./.github/logo.png" width=300px">
 </h1>
 
 <h2 align="center">Aulas e Desafios do Bootcamp LaunchBase</h2>
-
-</br>
 
 ### **FASE 01**
 
