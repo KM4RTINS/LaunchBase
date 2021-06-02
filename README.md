@@ -1,21 +1,15 @@
-<h1 align="center">
-  <img alt="LaunchBase" src="./.github/logo.png" width=300px">
-</h1>
-
-<h2 align="center">Aulas e Desafios do Bootcamp LaunchBase</h2>
-
-### **FASE 01**
-
----
-
-- [x] [**Preparação e Estudos**](#)
-  - [x] [Instruções Básicas](#)
-  - [x] [Fortalecendo sua Mentalidade](#)
-  - [x] [Cronograma de Conteúdo](#)
-  - [x] [Fixação de Conteúdo](#)
-  - [x] [Resultado para a Carreira](#)
-  - [x] [Projetos Pessoais](#)
-  - [x] [Cronograma na Prática](#)
-
-- [x] [**Ambiente de Desenvolvimento**](#)
-  - [x] [Ambiente Windows](#)
+<a href="#">
+  <img alt="LaunchBase" src="./.github/logo.jpg"/>
+</a>
+<a href="./fase_01">
+  <img src="./.github/card_01.jpg">
+</a>
+<a href="#">
+  <img src="./.github/card_02.jpg">
+</a>
+<a href="#">
+  <img src="./.github/card_03.jpg">
+</a>
+<a href="#">
+  <img src="./.github/card_04.jpg">
+</a>
