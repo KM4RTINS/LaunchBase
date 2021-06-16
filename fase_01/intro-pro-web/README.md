@@ -4,7 +4,7 @@
 
 ### **Índice**
 
-- [x] [**Preparação e Estudos**]()
+- [x] [**Preparação e Estudos**](https://www.notion.so/Prepara-o-e-Estudos-f73add942e0a402095ff1ea7d5f4c846)
   - [x] Instruções Básicas
   - [x] Fortalecendo sua mentalidade
   - [x] Cronograma de Estudos
@@ -13,7 +13,7 @@
   - [x] Projetos Pessoais
   - [x] Cronograma na Prática
 
-- [x] [**Ambiente de Desenvolvimento**]()
+- [x] [**Ambiente de Desenvolvimento**](https://www.notion.so/Ambiente-de-Desenvolvimento-7bc749ec60404b5083256c5de012425e)
   - [x] Ambiente Windows
 
 - [x] [**Intrudução à Programação WEB**](https://www.notion.so/Introdu-o-Programa-o-WEB-facaf57f14c1450f877117119788a8ec)
