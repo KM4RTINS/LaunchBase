@@ -54,10 +54,10 @@ function sendMessage(average, classroom) {
     }
 }
 
-function studentflunket(students) {
+function studentFlunket(students) {
     for (let student of students) {
         markAsFlunket(student)
-        sendMessageflunket(student)
+        sendMessageFlunket(student)
     }
 }
 
@@ -68,14 +68,14 @@ function markAsFlunket(student) {
     }
 }
 
-function sendMessageflunket(student) {
+function sendMessageFlunket(student) {
     if (student.flunket) {
         console.log(`O student ${student.name} está flunket!`)
     }
 }
 
-studentflunket(classA)
-studentflunket(classB)
+studentFlunket(classA)
+studentFlunket(classB)
 
 const averageA = calculateAverage(classA)
 const averageB = calculateAverage(classB)
