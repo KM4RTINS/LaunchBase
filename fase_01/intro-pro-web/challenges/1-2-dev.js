@@ -1,11 +1,11 @@
-const programador = {
-	nome: "Igor",
-	idade: 22,
-	tecnologia: [
-		{ nome: 'C++', especialidade: 'Desktop' },
-		{ nome: 'Python', especialidade: 'Data Science' },
-		{ nome: 'JavaScript', especialidade: 'Web/Mobile' }
+const programmer = {
+	name: "Igor",
+	age: 22,
+	technology: [
+		{ name: 'C++', specialty: 'Desktop' },
+		{ name: 'Python', specialty: 'Data Science' },
+		{ name: 'JavaScript', specialty: 'Web/Mobile' }
 	]
 }
 
-console.log(`O usuário ${programador.nome} tem ${programador.idade} anos e usa a tecnologia ${programador.tecnologia[0].nome} com especialidade em ${programador.tecnologia[0].especialidade}.`)
+console.log(`O usuário ${programmer.name} tem ${programmer.age} anos e usa a tecnologia ${programmer.technology[0].name} com especialidade em ${programmer.technology[0].specialty}.`)

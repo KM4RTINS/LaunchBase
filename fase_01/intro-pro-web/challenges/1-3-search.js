@@ -1,18 +1,18 @@
-const usuarios = [
-  {nome: "Cristina", tecnologia: ["HTML", "CSS"]},
-  {nome: "Natália", tecnologia: ["JavaScript", "Java"]},
-  {nome: "Yasmim", tecnologia: ["CSS", "Node.js"]}
+const users = [
+  {name: "Cristina", technology: ["HTML", "CSS"]},
+  {name: "Natália", technology: ["JavaScript", "Java"]},
+  {name: "Yasmim", technology: ["CSS", "Node.js"]}
 ]
 
 function myFunc() {
-  for (i = 0; i < usuarios.length; i++) {
+  for (i = 0; i < users.length; i++) {
     
-    let devTec = usuarios[i].tecnologia
+    let devTec = users[i].technology
 
     if (devTec[0] == "CSS" || devTec[1] == "CSS") {
-      console.log(`${usuarios[i].nome} trabalha com CSS`)
+      console.log(`${users[i].name} trabalha com CSS`)
     } else {
-      console.log(`${usuarios[i].nome} não trabalha com CSS`)
+      console.log(`${users[i].name} não trabalha com CSS`)
     }
 
   }

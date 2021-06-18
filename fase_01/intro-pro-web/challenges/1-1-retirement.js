@@ -1,38 +1,38 @@
-const nome = "Igor";
-const sexo = "M";
-const idade = 22;
-const contribuicao = 4;
+const name = "Igor";
+const sex = "M";
+const age = 22;
+const contribution = 4;
 
-const homem = "H";
-const mulher = "M";
-const regra = idade + contribuicao;
+const man = "H";
+const woman = "M";
+const rule = age + contribution;
 
-if (sexo == homem) {
-	console.log(`Homem: ${nome}`)
+if (sex == man) {
+	console.log(`Homem: ${name}`)
 }
 
-if (sexo == homem) {
-	if (contribuicao >= 35) {
-		if (regra == 95) {
-			console.log(`${nome}, você pode se aposentar.`)
+if (sex == man) {
+	if (contribution >= 35) {
+		if (rule == 95) {
+			console.log(`${name}, você pode se aposentar.`)
 		} else {
-			console.log(`${nome}, você não pode se aposentar.`)
+			console.log(`${name}, você não pode se aposentar.`)
 		}
 	} else {
 		console.log("Você não tem tempo de contribuição suficiente para se aposentar.")
 	}
 } 
 
-if (sexo == mulher) {
-	console.log(`Mulher: ${nome}`)
+if (sex == woman) {
+	console.log(`Mulher: ${name}`)
 }
 
-if (sexo == mulher) {
-	if (contribuicao >= 30) {
-		if (regra == 85) {
-			console.log(`${nome}, você pode se aposentar.`)
+if (sex == woman) {
+	if (contribution >= 30) {
+		if (rule == 85) {
+			console.log(`${name}, você pode se aposentar.`)
 		} else {
-			console.log(`${nome}, você não pode se aposentar.`)
+			console.log(`${name}, você não pode se aposentar.`)
 		}
 	} else {
 		console.log("Você não tem tempo de contribuição suficiente para se aposentar.")
