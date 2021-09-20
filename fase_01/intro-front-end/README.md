@@ -21,7 +21,7 @@
     - [x] [**Desafio 2-1**](https://www.notion.so/Desafio-2-1-1e01ec944d11445790a6acdb436b8d20)
 
   - [ ] [**Página sobre**](#)
-    - [ ] [Adicionando imagens no HTML](#)
+    - [x] [Adicionando imagens no HTML](https://polydactyl-table-b12.notion.site/Adicionando-imagens-no-HTML-c04abb023b5849ba89d447cd98d9efeb)
     - [ ] [Separando e importando estilos](#)
     - [ ] [Trabalhando com texto no HTML](#)
     - [ ] [Estilizando imagem do avatar](#)
