@@ -22,9 +22,9 @@
 
   - [ ] [**Página sobre**](#)
     - [x] [Adicionando imagens no HTML](https://polydactyl-table-b12.notion.site/Adicionando-imagens-no-HTML-c04abb023b5849ba89d447cd98d9efeb)
-    - [ ] [Separando e importando estilos](#)
-    - [ ] [Trabalhando com texto no HTML](#)
-    - [ ] [Estilizando imagem do avatar](#)
+    - [x] [Separando e importando estilos](https://polydactyl-table-b12.notion.site/Separando-e-importando-estilos-3f11622c946b4b45a795df9eaa7b8f9f)
+    - [x] [Trabalhando com texto no HTML](https://polydactyl-table-b12.notion.site/Trabalhando-com-texto-no-HTML-67186816206c4cc0bd34a1c4829a34e0)
+    - [x] [Estilizando imagem do avatar](https://polydactyl-table-b12.notion.site/Estilizando-imagem-do-avatar-9cfca9a2e091464785810b3d09f9cd25)
     - [ ] [Estilizando textos e fontes com CSS](#)
     - [ ] [Variáveis no CSS](#)
     - [ ] [Links para redes socias](#)
