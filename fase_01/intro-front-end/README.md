@@ -25,9 +25,9 @@
     - [x] [Separando e importando estilos](https://polydactyl-table-b12.notion.site/Separando-e-importando-estilos-3f11622c946b4b45a795df9eaa7b8f9f)
     - [x] [Trabalhando com texto no HTML](https://polydactyl-table-b12.notion.site/Trabalhando-com-texto-no-HTML-67186816206c4cc0bd34a1c4829a34e0)
     - [x] [Estilizando imagem do avatar](https://polydactyl-table-b12.notion.site/Estilizando-imagem-do-avatar-9cfca9a2e091464785810b3d09f9cd25)
-    - [ ] [Estilizando textos e fontes com CSS](#)
-    - [ ] [Variáveis no CSS](#)
-    - [ ] [Links para redes socias](#)
+    - [x] [Estilizando textos e fontes com CSS](https://polydactyl-table-b12.notion.site/Estilizando-textos-e-fontes-com-CSS-3a4abfc0739049459ecac2427afc03bf)
+    - [x] [Variáveis no CSS](https://polydactyl-table-b12.notion.site/Vari-veis-no-CSS-9804eb39c44048289f606d8b01d982b5)
+    - [x] [Links para redes socias](https://polydactyl-table-b12.notion.site/Links-para-redes-sociais-1fe1bbf375894c8c9309ac28a00daec2)
     - [ ] [**Desafio 2-2**](#)
 
   - [ ] [**Página de portfólio**](#)
