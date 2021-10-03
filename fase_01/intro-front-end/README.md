@@ -28,7 +28,7 @@
     - [x] [Estilizando textos e fontes com CSS](https://polydactyl-table-b12.notion.site/Estilizando-textos-e-fontes-com-CSS-3a4abfc0739049459ecac2427afc03bf)
     - [x] [Variáveis no CSS](https://polydactyl-table-b12.notion.site/Vari-veis-no-CSS-9804eb39c44048289f606d8b01d982b5)
     - [x] [Links para redes socias](https://polydactyl-table-b12.notion.site/Links-para-redes-sociais-1fe1bbf375894c8c9309ac28a00daec2)
-    - [ ] [**Desafio 2-2**](#)
+    - [X] [**Desafio 2-2**](https://polydactyl-table-b12.notion.site/Desafio-2-2-8ab67bc0e5cd45a5bbf76a84268ae9a6)
 
   - [ ] [**Página de portfólio**](#)
     - [ ] [Iniciando página de portfólio](#)
