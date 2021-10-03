@@ -20,7 +20,7 @@
     - [x] [Estilizando fontes e links do menu](https://www.notion.so/Estilizando-fontes-e-links-do-menu-c743a70a156245f1a2230e0581b903c8)
     - [x] [**Desafio 2-1**](https://www.notion.so/Desafio-2-1-1e01ec944d11445790a6acdb436b8d20)
 
-  - [ ] [**Página sobre**](#)
+  - [x] [**Página sobre**](#)
     - [x] [Adicionando imagens no HTML](https://polydactyl-table-b12.notion.site/Adicionando-imagens-no-HTML-c04abb023b5849ba89d447cd98d9efeb)
     - [x] [Separando e importando estilos](https://polydactyl-table-b12.notion.site/Separando-e-importando-estilos-3f11622c946b4b45a795df9eaa7b8f9f)
     - [x] [Trabalhando com texto no HTML](https://polydactyl-table-b12.notion.site/Trabalhando-com-texto-no-HTML-67186816206c4cc0bd34a1c4829a34e0)
